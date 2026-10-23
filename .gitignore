@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Relatorios gerados pelo programa (contem MAC, SSID e caminhos pessoais)
+diagnostico_wifi.txt
+dns_antes_*.txt
+WIFI_HUD_Historico/
+
+# Editor / sistema
+.vscode/
+.idea/
+Thumbs.db
